@@ -36,7 +36,7 @@ Os links e hashes SHA-256 dos PDFs usados estão em `data/selecionados.json`. O 
 
 ## Revisão de conteúdo e municípios
 
-Contato institucional confirmado pelo usuário: odontologia@cromg.org.br. A prática será realizada nos municípios onde estão localizadas as Delegacias Regionais; o endereço das aulas e a distribuição de turmas dependem do calendário do CRO-MG.
+Contato institucional confirmado pelo usuário: odontologia@cromg.org.br. A prática será realizada nos municípios com Delegacias Regionais do CRO-MG; o endereço das aulas e a distribuição de turmas dependem do calendário do CRO-MG.
 
 Municípios conferidos no diretório https://cromg.org.br/delegacias-regionais/: Alfenas, Diamantina, Divinópolis, Governador Valadares, Ipatinga, Juiz de Fora, Lavras, Montes Claros, Muriaé, Patos de Minas, Teófilo Otoni, Três Corações, Uberaba e Uberlândia. Almenara foi acrescentada com a indicação de implantação, conforme notícia oficial de 26/10/2026: https://cromg.org.br/noticias/cro-mg-abre-nova-delegacia-regional-em-almenara-e-fortalece-a-odontologia-no-vale-do-jequitinhonha/. Belo Horizonte é sede, não Delegacia Regional, e não foi classificada na relação.
 
